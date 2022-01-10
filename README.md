@@ -1,8 +1,8 @@
 # avaya_vrt
-`example.csv` - example csv file with phone number 
-`main.py` - script for adding phone numbers from csv file in vrt table Avaya Communication Manager
-`remove_all_vrt.py` - script for remove all vrt tables from Avaya Communication Manager
-`requirements.txt` - necessary packages for working script
+`example.csv` - example csv file with phone number <br>
+`main.py` - script for adding phone numbers from csv file in vrt table Avaya Communication Manager<br>
+`remove_all_vrt.py` - script for remove all vrt tables from Avaya Communication Manager<br>
+`requirements.txt` - necessary packages for working script<br>
 <h3>Example string for execute script for recording phone number in vrt tables Avaya Communication Manager.</h3>
 
 `python3 main.py <host> <port> <username> <password> <pin> <filename or absolute path to csv file>`
