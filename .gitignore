@@ -1,2 +1,4 @@
 # virtual_environment_folder
 env
+# compile files
+*.pyc
